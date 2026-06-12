@@ -9,7 +9,7 @@ redirect_from:
 
 I am Qiaoyi, a fourth-year PhD student in Political Science at the University of Illinois at Urbana-Champaign. My broader research interests lie in American politics, with a primary focus on political behavior and political psychology. Specifically, I study the psychological foundations of political attitudes and behavior. I am particularly interested in how social identities, such as race and gender, shape individuals' perceptions of and interactions with in-group and out-group members. I also examine how the lived experiences of minority group members influence their political views and actions.
 
-You can reach me by email at [qiaoyin2@illinois.edu](mailto:qiaoyin2@illinois.edu). See my [CV](/cv/), [Publications](/publications/), and [Teaching](/teaching/) for more.
+You can reach me by email at [qiaoyin2@illinois.edu](mailto:qiaoyin2@illinois.edu). See my [CV](/cv/), [Research](/research/), and [Teaching](/teaching/) for more.
 
 Education
 ======
