@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Qiaoyi Nie 聂巧仪"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
