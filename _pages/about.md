@@ -13,10 +13,10 @@ You can reach me by email at [qiaoyin2@illinois.edu](mailto:qiaoyin2@illinois.ed
 
 Education
 ======
-- **Ph.D. in Political Science**, University of Illinois at Urbana-Champaign, 2022 – Present
-- **M.A. in Political Science**, University of Illinois at Urbana-Champaign, 2022 – 2024
-- **M.A. in English (American Studies)**, Beijing Foreign Studies University, 2019 – 2022
-- **B.A. in English Language and Literature**, Sichuan International Studies University, 2015 – 2019
+- <img src="/images/logo-uiuc.png" alt="University of Illinois" style="height:22px; vertical-align:middle; margin-right:8px;"> **Ph.D. in Political Science**, University of Illinois at Urbana-Champaign, 2022 – Present
+- <img src="/images/logo-uiuc.png" alt="University of Illinois" style="height:22px; vertical-align:middle; margin-right:8px;"> **M.A. in Political Science**, University of Illinois at Urbana-Champaign, 2022 – 2024
+- <img src="/images/logo-bfsu.png" alt="Beijing Foreign Studies University" style="height:22px; vertical-align:middle; margin-right:8px;"> **M.A. in English (American Studies)**, Beijing Foreign Studies University, 2019 – 2022
+- <img src="/images/logo-sisu.png" alt="Sichuan International Studies University" style="height:22px; vertical-align:middle; margin-right:8px;"> **B.A. in English Language and Literature**, Sichuan International Studies University, 2015 – 2019
 
 Research Interests
 ======
