@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Qiaoyi Nie"
+title: "Qiaoyi Nie 聂巧仪"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-*(Pronounced as "Chow-Yee Nyeh")*
 
 I am a PhD student in Political Science at the University of Illinois at Urbana-Champaign. My research interests center on Asian and Asian American politics, with a focus on race, ethnicity, and political behavior in the United States.
 

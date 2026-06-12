@@ -24,7 +24,8 @@ repository               : "QiaoyiNie/qiaoyinie.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Qiaoyi Nie"
+  name             : "Qiaoyi Nie 聂巧仪"
+  pronunciation    : 'Pronounced as "Chow-Yee Nyeh"'
   pronouns         : # example: "she/her"
   bio              : "PhD Student in Political Science"
   location         : "Urbana-Champaign, IL"
