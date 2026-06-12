@@ -20,7 +20,4 @@ Education
 
 Research Interests
 ======
-- Asian and Asian American politics
-- Race, ethnicity, and political behavior in the United States
-- Survey design
-- Experimental research
+<img src="/images/research-wordcloud.png" alt="Research interests: Asian and Asian American politics; Racial and ethnic politics; Political behavior; Political psychology; American politics; Survey design; Experimental research" style="max-width:100%; height:auto;">
