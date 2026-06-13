@@ -24,22 +24,22 @@ Research Interests
 
   <figure style="margin:0; text-align:center;">
     <img src="/images/racial-ethnic-politics.jpg" alt="Racial and Ethnic Politics" style="width:100%; aspect-ratio:16/10; object-fit:cover; border-radius:8px; border:1px solid #ddd;">
-    <figcaption style="margin-top:.5em; font-weight:700; color:#13294B;">Racial and Ethnic Politics</figcaption>
+    <figcaption style="margin-top:.5em; font-weight:700; color:#002147;">Racial and Ethnic Politics</figcaption>
   </figure>
 
   <figure style="margin:0; text-align:center;">
     <img src="/images/political-behavior.jpg" alt="Political Participation" style="width:100%; aspect-ratio:16/10; object-fit:cover; border-radius:8px; border:1px solid #ddd;">
-    <figcaption style="margin-top:.5em; font-weight:700; color:#13294B;">Political Participation</figcaption>
+    <figcaption style="margin-top:.5em; font-weight:700; color:#002147;">Political Participation</figcaption>
   </figure>
 
   <figure style="margin:0; text-align:center;">
     <img src="/images/political-psychology.jpg" alt="Political Psychology (Stereotypes and Biases)" style="width:100%; aspect-ratio:16/10; object-fit:cover; border-radius:8px; border:1px solid #ddd;">
-    <figcaption style="margin-top:.5em; font-weight:700; color:#13294B;">Political Psychology (Stereotypes and Biases)</figcaption>
+    <figcaption style="margin-top:.5em; font-weight:700; color:#002147;">Political Psychology (Stereotypes and Biases)</figcaption>
   </figure>
 
   <figure style="margin:0; text-align:center;">
     <img src="/images/survey-experimental.jpg" alt="Survey Design and Experimental Research" style="width:100%; aspect-ratio:16/10; object-fit:cover; border-radius:8px; border:1px solid #ddd;">
-    <figcaption style="margin-top:.5em; font-weight:700; color:#13294B;">Survey Design and Experimental Research</figcaption>
+    <figcaption style="margin-top:.5em; font-weight:700; color:#002147;">Survey Design and Experimental Research</figcaption>
   </figure>
 
 </div>
