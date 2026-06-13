@@ -41,3 +41,74 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* ==========================================================================
+   OXFORD BLUE + WHITE — PROFESSIONAL THEME POLISH
+   ========================================================================== */
+$oxford-blue: #002147;
+
+/* Headings in Oxford Blue for a clean, scholarly hierarchy */
+.page__title,
+.archive__item-title,
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4,
+.page__content h5,
+.page__content h6 {
+  color: $oxford-blue;
+  letter-spacing: -0.01em;
+}
+
+/* Section rules under h2 headings */
+.page__content h2 {
+  padding-bottom: 0.3em;
+  border-bottom: 2px solid rgba(0, 33, 71, 0.15);
+}
+.page__content h2 + hr {
+  display: none;
+}
+
+/* Masthead: crisp white bar with a subtle Oxford-blue accent */
+.masthead {
+  box-shadow: 0 1px 3px rgba(0, 33, 71, 0.08);
+}
+.masthead::after {
+  height: 2px;
+  background: $oxford-blue;
+}
+.greedy-nav a,
+.masthead__menu-item a {
+  color: $oxford-blue;
+  font-weight: 600;
+}
+.greedy-nav a:hover {
+  color: #013a7a;
+}
+.masthead__menu-item.selected a,
+.masthead__menu-item.selected a:hover {
+  color: $oxford-blue;
+  border-bottom: 2px solid $oxford-blue;
+}
+
+/* Sidebar author name in Oxford Blue */
+.author__name,
+.sidebar .author__name {
+  color: $oxford-blue;
+  font-weight: 700;
+}
+
+/* Primary buttons in Oxford Blue */
+.btn--primary {
+  background-color: $oxford-blue;
+  border-color: $oxford-blue;
+}
+.btn--primary:hover {
+  background-color: #013a7a;
+  border-color: #013a7a;
+}
+
+/* Body links: underline on hover for readability */
+a:hover {
+  text-decoration: underline;
+}
