@@ -28,7 +28,7 @@ author:
   pronunciation    : 'Pronounced as "Chow-Yee Nyeh"'
   pronouns         : # example: "she/her"
   bio              : "PhD Student in Political Science"
-  location         : "Urbana-Champaign, IL"
+  location         : # Removed
   employer         : "University of Illinois<br>at Urbana-Champaign"
   uri              : # URL
   email            : "qiaoyin2@illinois.edu"
